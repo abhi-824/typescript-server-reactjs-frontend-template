@@ -1,5 +1,6 @@
 # typescript-server-reactjs-frontend-template
-Here were the steps used:
+
+### Here were the steps used:
 
 - > yarn init(If you don't have yarn installed, run npm i -g yarn)
 - > yarn add -D typescript ts-node
@@ -57,3 +58,12 @@ routes/index.ts | contains router which is exported to the main app
 - > cd src/client
 - > yarn start( React should run)
 
+## Installation
+
+> clone the repository
+> cd typescript-server-reactjs-frontend-template
+> yarn
+> yarn build -w
+> yarn dev
+> cd src/client
+> yarn start
